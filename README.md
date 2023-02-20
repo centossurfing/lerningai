@@ -1,0 +1,2 @@
+# lerningai
+learing ai project
